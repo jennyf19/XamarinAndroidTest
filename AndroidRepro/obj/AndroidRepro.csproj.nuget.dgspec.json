@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jeferrie\\source\\repos\\AndroidRepro\\AndroidRepro\\AndroidRepro.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jeferrie\\source\\repos\\AndroidRepro\\AndroidRepro\\AndroidRepro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jeferrie\\source\\repos\\AndroidRepro\\AndroidRepro\\AndroidRepro.csproj",
+        "projectName": "AndroidRepro",
+        "projectPath": "C:\\Users\\jeferrie\\source\\repos\\AndroidRepro\\AndroidRepro\\AndroidRepro.csproj",
+        "packagesPath": "C:\\Users\\jeferrie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeferrie\\source\\repos\\AndroidRepro\\AndroidRepro\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jeferrie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\msalReleases": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/aad-clients-nightly/api/v2/": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.6.0.264807, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

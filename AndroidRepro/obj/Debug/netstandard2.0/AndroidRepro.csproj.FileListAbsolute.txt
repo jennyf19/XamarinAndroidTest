@@ -1,0 +1,12 @@
+C:\Users\jeferrie\source\repos\AndroidRepro\AndroidRepro\bin\Debug\netstandard2.0\AndroidRepro.deps.json
+C:\Users\jeferrie\source\repos\AndroidRepro\AndroidRepro\bin\Debug\netstandard2.0\AndroidRepro.dll
+C:\Users\jeferrie\source\repos\AndroidRepro\AndroidRepro\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jeferrie\source\repos\AndroidRepro\AndroidRepro\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jeferrie\source\repos\AndroidRepro\AndroidRepro\obj\Debug\netstandard2.0\AndroidRepro.csproj.CoreCompileInputs.cache
+C:\Users\jeferrie\source\repos\AndroidRepro\AndroidRepro\obj\Debug\netstandard2.0\AndroidRepro.AssemblyInfoInputs.cache
+C:\Users\jeferrie\source\repos\AndroidRepro\AndroidRepro\obj\Debug\netstandard2.0\AndroidRepro.AssemblyInfo.cs
+C:\Users\jeferrie\source\repos\AndroidRepro\AndroidRepro\bin\Debug\netstandard2.0\AndroidRepro.pdb
+C:\Users\jeferrie\source\repos\AndroidRepro\AndroidRepro\obj\Debug\netstandard2.0\AcquireTokenPage.xaml.g.cs
+C:\Users\jeferrie\source\repos\AndroidRepro\AndroidRepro\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jeferrie\source\repos\AndroidRepro\AndroidRepro\obj\Debug\netstandard2.0\AndroidRepro.dll
+C:\Users\jeferrie\source\repos\AndroidRepro\AndroidRepro\obj\Debug\netstandard2.0\AndroidRepro.pdb
